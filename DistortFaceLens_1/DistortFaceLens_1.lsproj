@@ -1,0 +1,1007 @@
+{
+    "lens_id": "",
+    "document_id": "BsvPFyBl6Gw2nnEQZHxK",
+    "original_document_id": "BsvPFyBl6Gw2nnEQZHxK",
+    "version": "26",
+    "lastChanged": "1621251286406",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "3",
+            "patch": "3",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "3",
+            "patch": "3",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "All Yellow"
+                    ],
+                    [
+                        "Blown White"
+                    ],
+                    [
+                        "Blue Orange"
+                    ],
+                    [
+                        "Blue Orange 2"
+                    ],
+                    [
+                        "Brightening"
+                    ],
+                    [
+                        "Cinematic"
+                    ],
+                    [
+                        "Clean"
+                    ],
+                    [
+                        "Flower"
+                    ],
+                    [
+                        "Frost"
+                    ],
+                    [
+                        "Night"
+                    ],
+                    [
+                        "RedLips"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Vintage Red"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1520545124839409:8915",
+                    "1521579880374201:98983",
+                    "1620832654272429:144056"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "373d2e56d9daebf7d02ceff5be9a6f81",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Distort",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Brick.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 3.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Brick.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 4.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1518226550068507:3240",
+                    "1518226574000129:3669",
+                    "1518226589449768:4022",
+                    "1519253497673742:42697",
+                    "1521587431033166:189970",
+                    "1521657048542418:114208",
+                    "1521689538601074:1776"
+                ]
+            ]
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1588127638212805:286613",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1588127638227634:286620",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1620833056655185:194264",
+                    "name": "Files\/File8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1620833092760267:199008",
+                    "name": "Files\/File10.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1620833115343985:202181",
+                    "name": "Files\/File12.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1620833141253973:205770",
+                    "name": "Files\/File14.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1620833180208872:210948",
+                    "name": "Files\/File16.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1620833189351951:212537",
+                    "name": "Files\/File18.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1620833222902408:217186",
+                    "name": "Files\/File20.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1620833236602791:219393",
+                    "name": "Files\/File22.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1620833275158080:224718",
+                    "name": "Files\/File24.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1620833342679500:234099",
+                    "name": "Files\/File26.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1620833361207860:237005",
+                    "name": "Files\/File28.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1620833392087389:241468",
+                    "name": "Files\/File30.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1518226500867080:1012",
+                "1": "1518226500869921:1016",
+                "2": "1519253497673742:42697",
+                "3": "1520545124839409:8915",
+                "4": "1521513758309418:22659",
+                "5": "1521579880374201:98983",
+                "6": "1521579880374221:98986",
+                "7": "1521579880374267:98992",
+                "8": "1521587431033166:189970",
+                "9": "1521587431037760:189973",
+                "10": "1521689538601074:1776",
+                "11": "1620832654272429:144056",
+                "12": "1620832766529177:158758",
+                "13": "1620833141159852:205719",
+                "14": "1620833236491025:219338",
+                "15": "1620833275050075:224659",
+                "16": "1620833391973727:241409"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.png"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.png"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.png"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.png"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.png"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.png"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.png"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.png"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.png"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.png"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.png"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.png"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.png"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.png"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.png"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.png"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.png"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.png"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.png"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.png"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.png"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.png"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.png"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.png"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "633",
+                        "v": "Textures\/echopark.hdr"
+                    },
+                    {
+                        "k": "634",
+                        "v": "Blue Orange.png"
+                    },
+                    {
+                        "k": "635",
+                        "v": "All Yellow.png"
+                    },
+                    {
+                        "k": "636",
+                        "v": "Brightening.png"
+                    },
+                    {
+                        "k": "637",
+                        "v": "Blown White.png"
+                    },
+                    {
+                        "k": "638",
+                        "v": "Blue Orange 2.png"
+                    },
+                    {
+                        "k": "639",
+                        "v": "Cinematic.png"
+                    },
+                    {
+                        "k": "640",
+                        "v": "Clean.png"
+                    },
+                    {
+                        "k": "641",
+                        "v": "Flower.png"
+                    },
+                    {
+                        "k": "642",
+                        "v": "Frost.png"
+                    },
+                    {
+                        "k": "643",
+                        "v": "Night.png"
+                    },
+                    {
+                        "k": "644",
+                        "v": "RedLips.png"
+                    },
+                    {
+                        "k": "645",
+                        "v": "Vintage Red.png"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "2",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "3",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "633",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "634",
+                        "v": "17fc5cc4bb9546556de454172f9dc9ae"
+                    },
+                    {
+                        "k": "635",
+                        "v": "f3848123b958181a8f5b40ebf82d0ea0"
+                    },
+                    {
+                        "k": "636",
+                        "v": "a276acaed7d65e4c1b56181771677a77"
+                    },
+                    {
+                        "k": "637",
+                        "v": "94724991a5b1eb2dad00986df33fbf30"
+                    },
+                    {
+                        "k": "638",
+                        "v": "17fc5cc4bb9546556de454172f9dc9ae"
+                    },
+                    {
+                        "k": "639",
+                        "v": "16d9fbfab32f3264f36b189ba989b44e"
+                    },
+                    {
+                        "k": "640",
+                        "v": "888d72629c8423d2383828c8597076ba"
+                    },
+                    {
+                        "k": "641",
+                        "v": "4a5152a2623bcd116a4e8100d1970f6f"
+                    },
+                    {
+                        "k": "642",
+                        "v": "a56d2e5d93d9ccfbea45ef7fc17e0644"
+                    },
+                    {
+                        "k": "643",
+                        "v": "df2263cffd75f799d46a9ace1b4b03e5"
+                    },
+                    {
+                        "k": "644",
+                        "v": "bbbd4fe58fc2d5d7cc79373894efd41e"
+                    },
+                    {
+                        "k": "645",
+                        "v": "b8a76449d48003dcc2a635457ac5c665"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2021-05-12T20:59:52",
+                        "name": "Public",
+                        "hash": "e2656a64cdbf4ad9fed8dd9fbbf16fcf",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-01-14T15:07:06",
+                                "name": "All Yellow.png",
+                                "hash": "f3848123b958181a8f5b40ebf82d0ea0",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-01-14T15:07:06",
+                                "name": "Blown White.png",
+                                "hash": "94724991a5b1eb2dad00986df33fbf30",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-01-14T15:07:06",
+                                "name": "Blue Orange 2.png",
+                                "hash": "17fc5cc4bb9546556de454172f9dc9ae",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-01-14T15:07:06",
+                                "name": "Blue Orange.png",
+                                "hash": "17fc5cc4bb9546556de454172f9dc9ae",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-01-14T15:07:06",
+                                "name": "Brightening.png",
+                                "hash": "a276acaed7d65e4c1b56181771677a77",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-01-14T15:07:06",
+                                "name": "Cinematic.png",
+                                "hash": "16d9fbfab32f3264f36b189ba989b44e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-01-14T15:07:06",
+                                "name": "Clean.png",
+                                "hash": "888d72629c8423d2383828c8597076ba",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-01-14T15:07:06",
+                                "name": "Flower.png",
+                                "hash": "4a5152a2623bcd116a4e8100d1970f6f",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-01-14T15:07:28",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-01-14T15:07:06",
+                                "name": "Frost.png",
+                                "hash": "a56d2e5d93d9ccfbea45ef7fc17e0644",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-01-14T15:07:06",
+                                "name": "Night.png",
+                                "hash": "df2263cffd75f799d46a9ace1b4b03e5",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-01-14T15:07:06",
+                                "name": "RedLips.png",
+                                "hash": "bbbd4fe58fc2d5d7cc79373894efd41e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-05-12T20:28:17",
+                                "name": "Textures",
+                                "hash": "7305afc99178fbb8f0912889f41c0cab",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-01-14T15:07:28",
+                                        "name": "echopark.hdr",
+                                        "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-01-14T15:07:28",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-01-14T15:07:06",
+                                "name": "Vintage Red.png",
+                                "hash": "b8a76449d48003dcc2a635457ac5c665",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "1",
+                                "dependency": "0",
+                                "uid": "1:1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "echopark",
+                                "type": "9",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "2",
+                                "uid": "-1:-1",
+                                "fileId": "7",
+                                "originalId": "18446744073709551615",
+                                "publicId": "633",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Diff",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "13",
+                                        "dependency": "1",
+                                        "uid": "1588127638212805:286613",
+                                        "fileId": "3",
+                                        "originalId": "4",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Specular",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "14",
+                                        "dependency": "1",
+                                        "uid": "1588127638227634:286620",
+                                        "fileId": "5",
+                                        "originalId": "6",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Blue Orange",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "15",
+                        "dependency": "0",
+                        "uid": "1620833056655185:194264",
+                        "fileId": "8",
+                        "originalId": "9",
+                        "publicId": "634",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/BlueOrange.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "All Yellow",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "16",
+                        "dependency": "0",
+                        "uid": "1620833092760267:199008",
+                        "fileId": "10",
+                        "originalId": "11",
+                        "publicId": "635",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/AllYellow.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Brightening",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "17",
+                        "dependency": "0",
+                        "uid": "1620833115343985:202181",
+                        "fileId": "12",
+                        "originalId": "13",
+                        "publicId": "636",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/Brightening.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Blown White",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "18",
+                        "dependency": "0",
+                        "uid": "1620833141253973:205770",
+                        "fileId": "14",
+                        "originalId": "15",
+                        "publicId": "637",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/BlownWhite.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Blue Orange 2",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "19",
+                        "dependency": "0",
+                        "uid": "1620833180208872:210948",
+                        "fileId": "16",
+                        "originalId": "17",
+                        "publicId": "638",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/BlueOrange.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Cinematic",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "20",
+                        "dependency": "0",
+                        "uid": "1620833189351951:212537",
+                        "fileId": "18",
+                        "originalId": "19",
+                        "publicId": "639",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/Cinematic.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Clean",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "21",
+                        "dependency": "0",
+                        "uid": "1620833222902408:217186",
+                        "fileId": "20",
+                        "originalId": "21",
+                        "publicId": "640",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/Clean.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Flower",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "22",
+                        "dependency": "0",
+                        "uid": "1620833236602791:219393",
+                        "fileId": "22",
+                        "originalId": "23",
+                        "publicId": "641",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/Flower.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Frost",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "23",
+                        "dependency": "0",
+                        "uid": "1620833275158080:224718",
+                        "fileId": "24",
+                        "originalId": "25",
+                        "publicId": "642",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/Frost.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Night",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "24",
+                        "dependency": "0",
+                        "uid": "1620833342679500:234099",
+                        "fileId": "26",
+                        "originalId": "27",
+                        "publicId": "643",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/Night.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "RedLips",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "25",
+                        "dependency": "0",
+                        "uid": "1620833361207860:237005",
+                        "fileId": "28",
+                        "originalId": "29",
+                        "publicId": "644",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/RedLips.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Vintage Red",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "26",
+                        "dependency": "0",
+                        "uid": "1620833392087389:241468",
+                        "fileId": "30",
+                        "originalId": "31",
+                        "publicId": "645",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/VintageRed.png",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1519253497673742:42697"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "Compression::IController": {
+            "compression_info": ""
+        }
+    }
+}
